@@ -33,6 +33,10 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ## Stand Out (Optional)
 
+## Eb endpoint
+http://Udagram-Udacity-Project23-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png
+
+
 ### Refactor the course RESTapi
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
